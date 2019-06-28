@@ -1,2 +1,0 @@
-# MaterialUITableDesigner
-Created with CodeSandbox
